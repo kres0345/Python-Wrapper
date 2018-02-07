@@ -1,0 +1,1 @@
+certutil -encode skepticalfile.exe encodedfile.txt
