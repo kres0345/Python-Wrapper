@@ -98,6 +98,3 @@ info.close()
 print("Program finished in")
 print("--- %s seconds ---" % (time.time() - start_time))
 input("Press ENTER to exit")
-
-
-
